@@ -1,3 +1,12 @@
+My first React app.
+
+It's aim is to manage todo items, where user can add new item, cross it as done and also delete item by clicking on it.
+
+
+
+
+Generated unneeded text by npm:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
