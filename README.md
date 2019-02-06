@@ -1,8 +1,11 @@
-My first React app.
+### My first React app.
 
 It's aim is to manage todo items, where user can add new item, cross it as done and also delete item by clicking on it.
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 Generated unneeded text by npm:
